@@ -1,0 +1,501 @@
+Date of Sale,Customer Name,State,Category,Sub-Category,Amount,Quantity Sold,Profit,Payment Mode,Order ID
+2024-05-21,Dr. Drew Chang,Florida,Clothing,Shoes,104.46,1,30.5,Credit Card,d63238e5-36c9-437b-a563-094efb39dcf3
+2024-05-21,Rebecca Wilson,Florida,Books,Non-Fiction,68.62,2,12.34,PayPal,fcedf77d-8cff-4fd4-a544-b87447d12d1e
+2024-05-21,Margaret Maldonado,Georgia,Clothing,Shoes,29.51,10,4.01,Debit Card,34dd5076-32a4-49ad-8b2f-5e50bd972fdf
+2024-05-21,Daniel Graham,California,Toys,Puzzles,477.11,2,100.59,Debit Card,aedb4e85-f644-4e22-9942-14d49b1a85b5
+2024-05-22,Andrew White,Ohio,Clothing,Pants,341.05,8,95.55,PayPal,0ada56ac-bc25-436a-9579-0ff6ce2e13a9
+2024-05-24,Melanie Gordon,New York,Books,Non-Fiction,438.29,7,69.57,Cash on Delivery,934dccea-878e-42e1-a02f-f6818310e0bc
+2024-05-25,Robert Sawyer,California,Electronics,Laptops,301.52,3,50.63,Debit Card,2258738a-61f3-4b29-8849-09fef2ecf53d
+2024-05-26,Mark Salas,Ohio,Books,Comics,182.53,8,24.11,Cash on Delivery,25dc939f-4bc8-4067-8eaf-b8d9744507ca
+2024-05-27,Destiny Meyers,Georgia,Clothing,Shirts,25.05,4,4.59,Cash on Delivery,ea1e1b78-4f3a-4004-945a-1bb9af6c6535
+2024-05-28,Michael Atkins,Florida,Furniture,Chairs,158.31,10,18.17,Cash on Delivery,d8652e75-79e6-419f-b8a3-bc12aaf73f7f
+2024-05-30,Carlos Ward,Texas,Toys,Action Figures,93.21,3,15.17,PayPal,3ef1d455-a5c4-43a0-a97d-9b165e5d58ee
+2024-06-01,Michael Lee,Illinois,Clothing,Pants,339.49,3,49.11,Cash on Delivery,743a53a5-6d95-43d1-9251-ae1aee42c2b4
+2024-06-01,Jeremiah Vance,New York,Toys,Educational,373.91,2,68.5,Cash on Delivery,bc16fe19-2fa4-43e0-b387-9a39cbf060e7
+2024-06-02,Krista Stevenson,California,Electronics,Accessories,220.73,7,57.12,Debit Card,21665326-5fe5-4916-b5ed-76c6f7ab292b
+2024-06-03,Charles Zimmerman,New York,Electronics,Laptops,196.98,7,41.99,Credit Card,254d8835-1ce0-4e6f-b4fe-9c5e1a119462
+2024-06-03,Caleb Fernandez,North Carolina,Books,Fiction,248.25,7,54.77,Cash on Delivery,515d1af4-e1be-4b8e-816f-5dff1c0633bb
+2024-06-05,Kayla Jones,North Carolina,Clothing,Shoes,369.62,7,108.47,Debit Card,3cb807b6-4072-4584-a401-a2915ae3ad47
+2024-06-06,Andre Melendez,California,Books,Comics,309.12,8,51.91,Cash on Delivery,be52af6e-be19-4737-b7d6-94ee67bf71c1
+2024-06-07,Heather Johnson,California,Furniture,Beds,121.53,10,21.31,Credit Card,4648758a-2b82-44c4-973a-2ee3bc9c89d4
+2024-06-07,Eric Brown,North Carolina,Books,Fiction,146.38,9,40.94,Cash on Delivery,e647c651-a7dc-470a-a0ac-332c46f25e3b
+2024-06-07,Kyle Parker,Georgia,Electronics,Accessories,499.38,4,145.53,Credit Card,52e5b2b0-9f57-4c8e-90a5-73096de721b0
+2024-06-08,Christy Stephens,Texas,Electronics,Laptops,119.98,8,27.59,Debit Card,5c12c9d4-020d-4f12-86f1-50041f3cd88f
+2024-06-09,Lori Oconnell,North Carolina,Toys,Action Figures,400.4,10,51.95,Credit Card,ff42e359-bd39-4d62-8510-0cee87dcc81c
+2024-06-10,Jason Perez,Illinois,Toys,Educational,112.93,4,13.06,Credit Card,c9792f4e-6581-4854-a95e-7f78c4111752
+2024-06-10,Elizabeth Taylor,Illinois,Furniture,Beds,222.69,6,25.07,PayPal,ac87c4cf-3572-4e7e-953f-7955be56c655
+2024-06-10,Melissa Jones,North Carolina,Clothing,Pants,163.41,4,27.75,Credit Card,0fd3922c-10fd-4e47-ba74-47df4f592d91
+2024-06-11,Veronica Hayden,Ohio,Clothing,Pants,48.79,2,11.12,Cash on Delivery,3437db65-eac5-403e-b476-00e06a1b1f90
+2024-06-11,Heather Gray,California,Clothing,Pants,431.52,9,110.25,Debit Card,44d157d0-1f6c-47aa-9eb4-5d725345329d
+2024-06-12,Lori Martinez,Illinois,Books,Fiction,366.71,4,76.81,Debit Card,5c5ec8eb-da6b-482b-802f-cd93716be023
+2024-06-12,Anna Robinson,Ohio,Books,Fiction,93.51,9,13.36,Credit Card,503e642c-0db2-47e0-bfb8-57bef336502a
+2024-06-13,Suzanne Murphy,Texas,Toys,Puzzles,416.6,5,117.68,PayPal,eeb50cd5-233b-4096-ba9c-23183870c237
+2024-06-13,Heather West,Texas,Books,Fiction,192.55,9,33.32,PayPal,2457d6e3-2b4a-4382-8525-c8113c344484
+2024-06-13,Rachel Roman,Ohio,Clothing,Shoes,494.83,9,60.41,PayPal,58bcbfdb-5782-4318-b3e5-e6ac36366e53
+2024-06-14,Kristen Bishop,Illinois,Clothing,Shoes,379.19,5,54.18,Cash on Delivery,b48be650-5e4d-4c6e-9e74-e2425d01e1c4
+2024-06-14,Charles Savage,Georgia,Furniture,Chairs,37.57,3,9.86,Credit Card,8d8ad70c-5072-41c8-ae3b-cf3e16935f9c
+2024-06-14,Diana Griffin,Georgia,Books,Comics,122.57,7,36.17,Cash on Delivery,6fc8cc2f-1b47-481d-b9d3-abf05481a8be
+2024-06-16,Pamela Lloyd,Illinois,Books,Comics,306.92,4,62.79,Credit Card,3e417db2-a839-473c-8769-3a913332136e
+2024-06-16,Elizabeth Brown,Texas,Toys,Educational,108.87,8,20.46,Cash on Delivery,efc430a1-8e51-4d30-8b0d-2a21b9263df0
+2024-06-16,Charles Brooks,Florida,Toys,Puzzles,498.27,1,88.68,PayPal,0e3c0ff2-92bf-40c5-99e9-c29108612060
+2024-06-17,Cindy Ferguson,Ohio,Toys,Action Figures,470.02,4,132.64,Cash on Delivery,b6c674ef-6cdd-4646-a4f0-16d2ba21d34d
+2024-06-18,Carlos Hebert DDS,North Carolina,Furniture,Tables,262.56,6,63.0,PayPal,c52df4f7-3bc6-4167-9394-a3d036789525
+2024-06-18,Keith Morgan,Florida,Furniture,Beds,80.47,1,23.83,Cash on Delivery,b3b6f3e9-c327-4405-887c-40a29a196bc4
+2024-06-19,Jose Rowland,North Carolina,Furniture,Tables,42.09,9,12.56,Debit Card,4520607f-c3d4-484e-b9ca-f0c4fd2395aa
+2024-06-19,Susan Thompson,Georgia,Electronics,Accessories,350.63,2,67.86,Credit Card,539a17b2-3e52-4d3e-bb16-d076f257b596
+2024-06-20,Mr. Ronnie Davis,Illinois,Electronics,Laptops,471.51,7,132.85,Cash on Delivery,ad78122d-9ef5-4c90-adce-5f2d7ffaf163
+2024-06-20,Mrs. Brittany Freeman,Georgia,Furniture,Tables,97.1,9,26.04,PayPal,22202729-7234-48fb-b779-edb8b775b276
+2024-06-22,Ronald Martinez,California,Books,Fiction,385.54,9,114.62,Credit Card,cfa21081-717b-4a19-b5b0-b8901f3168ea
+2024-06-23,David Gonzalez,Texas,Books,Fiction,390.72,7,73.41,Credit Card,721b4d5c-c81b-428c-a553-74136b877e4b
+2024-06-23,Wendy English,Florida,Books,Non-Fiction,139.06,4,20.8,Credit Card,284fcada-7f99-4371-967b-3b5e72ac7e82
+2024-06-23,Jennifer Freeman,North Carolina,Clothing,Pants,114.48,5,20.27,Credit Card,d8ecd1ff-3868-431c-92f4-19149150fd09
+2024-06-24,Richard Roberts,Florida,Electronics,Laptops,358.17,4,63.88,Debit Card,0bb9a934-a65b-48bd-9b6b-e4c8fe80ba89
+2024-06-25,Nina Mitchell,California,Clothing,Shoes,449.67,10,60.38,Cash on Delivery,069e5311-703d-4b08-9f66-9671c1856747
+2024-06-27,Deanna Church,California,Electronics,Accessories,278.82,10,54.84,Cash on Delivery,d44d39f9-8630-46b8-93f3-0d603def1770
+2024-06-27,Sarah Abbott,New York,Electronics,Laptops,220.45,7,37.3,PayPal,3bb45066-1247-48dd-ba1d-51a72d13ae2e
+2024-06-27,Daisy Newton,New York,Electronics,Laptops,52.2,2,15.11,PayPal,7b8b947d-19f9-414c-80cb-8aaab24a6c7c
+2024-06-28,Paul White,Texas,Toys,Educational,152.95,8,27.16,Debit Card,c46343de-370a-44a3-a646-ca49111a4313
+2024-06-28,Kelly Johnson,North Carolina,Electronics,Accessories,38.06,10,8.08,PayPal,41e0362f-dd61-4455-a955-1e869d87aa5a
+2024-06-28,Stephanie Parrish,Texas,Electronics,Phones,449.96,5,113.54,Credit Card,f24364ef-e9ee-4322-8efb-cb5fc0468837
+2024-06-28,William Lee,Texas,Toys,Puzzles,427.15,7,82.78,PayPal,1b71a81f-6583-43d1-a752-e9ca6fcb18dd
+2024-06-29,Mr. Miguel Kaiser Jr.,California,Electronics,Laptops,314.63,4,87.02,Credit Card,2be96878-53f0-4ee9-835b-7aa8da8c7931
+2024-06-30,Melissa Jackson,North Carolina,Toys,Puzzles,148.84,9,43.72,PayPal,eff0e27e-c1d8-44c4-9488-83eaa4ae5ded
+2024-06-30,Kimberly Daniels,Texas,Toys,Puzzles,443.01,7,90.22,Credit Card,50cb65c3-7c23-4f7d-b345-bcdb1715a6c9
+2024-07-01,Nicole Sandoval,California,Books,Fiction,416.6,10,110.91,PayPal,b2e93246-e89d-4e65-ad92-81232c74bb3f
+2024-07-01,Nicholas Ramirez,Georgia,Electronics,Accessories,382.91,9,73.12,Debit Card,d2b56a33-681c-462e-a0e9-c72dd4c0941b
+2024-07-01,Alexander Oliver,Illinois,Toys,Action Figures,460.08,8,122.46,Debit Card,e22a3958-ca79-4757-846d-4eda43a5610a
+2024-07-02,Jasmine Keller,Georgia,Toys,Puzzles,104.41,1,19.41,Credit Card,002f81ad-aac7-468e-8254-c485e837cbaa
+2024-07-03,Richard Daugherty,Texas,Toys,Puzzles,320.61,8,44.47,Debit Card,25eaa9ec-cf0d-4f81-af6a-02b4dd1f8516
+2024-07-03,Thomas Davenport,Florida,Electronics,Phones,81.22,1,17.88,Debit Card,c22b7dfc-54d0-437a-8bb2-1ea2119c6d23
+2024-07-04,James Miller,Texas,Books,Non-Fiction,412.14,10,74.12,Cash on Delivery,7490fc38-ea37-4c31-8b15-2e45e152f0d5
+2024-07-05,Pamela Fisher,Ohio,Toys,Action Figures,213.4,4,27.74,PayPal,a5ecafe2-c50b-4080-bae8-c8bb7511fded
+2024-07-05,Kari Brown,Georgia,Clothing,Shirts,203.43,4,54.2,PayPal,040810bd-0c54-4f5f-8f81-506ca9beaa1c
+2024-07-07,Robert Stark,Illinois,Electronics,Accessories,153.9,2,27.9,Credit Card,4ab27f30-0d58-418d-9a44-905ea58bc67d
+2024-07-07,Donald Miller,Georgia,Electronics,Phones,204.69,9,36.03,Debit Card,d9a82490-9307-43aa-b8d5-863795697065
+2024-07-07,Holly Palmer,Texas,Toys,Puzzles,316.69,4,61.51,Cash on Delivery,ac17546e-929d-455a-941e-50b64015d0db
+2024-07-08,Charles Andrews,New York,Electronics,Accessories,250.1,1,62.09,Cash on Delivery,c16dedfe-48a9-46dd-ac1b-dbb806b71242
+2024-07-08,Peter Smith,North Carolina,Clothing,Pants,247.2,2,55.23,Credit Card,c7ef76e2-98b7-45f6-a04e-57361de338f7
+2024-07-08,Amanda Jackson DDS,New York,Books,Fiction,79.38,6,10.57,PayPal,7359ab72-87bf-4cf6-8d1a-b795701c3e4f
+2024-07-08,Nicholas Jackson,Ohio,Furniture,Tables,96.93,3,10.42,PayPal,49ae01bf-7024-40f6-9c16-44b52f0b53d3
+2024-07-09,Sally Neal,Florida,Furniture,Beds,178.94,5,18.71,Credit Card,7df2f73b-8362-4c85-bbd4-652534d8138b
+2024-07-09,Wendy Dawson,Illinois,Toys,Action Figures,82.2,4,13.14,PayPal,5b516515-5edc-4c8e-b257-309c8673960c
+2024-07-10,Jasmine Sullivan,North Carolina,Books,Comics,148.53,3,41.29,PayPal,c0b98651-b9cb-47ef-8944-b032250ef8fd
+2024-07-11,Shane Freeman,California,Clothing,Shirts,186.67,9,54.97,Debit Card,04bb3fcf-1ebc-4d4a-9a7e-ddaf0e4cd543
+2024-07-11,Ricky Schmidt,Georgia,Electronics,Laptops,494.62,3,67.6,PayPal,05081814-dc4d-4cb3-a1dd-a1c3e6ca4b74
+2024-07-13,Nancy Rice,Florida,Furniture,Beds,39.43,6,11.51,Cash on Delivery,f3feb002-9c68-4381-9d27-c991e3887616
+2024-07-14,Jose Willis,North Carolina,Books,Comics,373.13,8,74.95,Cash on Delivery,32b02bde-7dc1-4071-b4c3-7b40eaa640f8
+2024-07-15,John Fernandez,Texas,Furniture,Tables,250.09,3,31.6,Debit Card,de9cceca-6d4b-4b6d-95f1-d5836614ac3e
+2024-07-15,Paul Villarreal DDS,Texas,Clothing,Shirts,110.28,6,25.66,Credit Card,62005e5f-cc08-421a-b657-073a850a42db
+2024-07-17,Brittany Harmon,New York,Clothing,Pants,484.36,7,93.21,PayPal,6329af3e-8324-441a-89f4-27c7ac580ade
+2024-07-18,Jessica Schmidt,Ohio,Toys,Educational,363.93,1,95.07,Credit Card,9fcdfc6c-4c26-4a02-9e9a-d9334a21c72e
+2024-07-20,Anna Mckay,Ohio,Books,Fiction,373.85,8,70.46,Cash on Delivery,95caed6d-8f22-42ec-be40-dde73ce8f92c
+2024-07-21,Anthony Hurst,North Carolina,Toys,Educational,275.42,6,74.55,Credit Card,f5a7e527-7dc4-499a-afbe-8f11df66ba19
+2024-07-22,Claudia Small,Texas,Books,Comics,359.06,3,84.33,Debit Card,7677f8fa-99db-4286-ae65-b669c908bcdc
+2024-07-23,Kimberly Walters,Texas,Books,Comics,280.1,5,35.04,Cash on Delivery,793b228f-d7fb-4d6b-b95b-74715815742b
+2024-07-25,Christopher Alvarez II,Texas,Toys,Educational,302.85,9,53.58,Debit Card,69b33879-fdfd-4228-904c-03d44007c1c0
+2024-07-26,Andrew Martin,California,Toys,Action Figures,129.28,9,22.79,Debit Card,9bd3f8c9-63ee-40b9-ac3b-34b2fc42001f
+2024-07-26,Jesse Brown,New York,Toys,Educational,295.84,1,85.88,PayPal,808c404c-296a-4dad-a8ae-e03bd08a5af5
+2024-07-26,Thomas Richardson,Georgia,Electronics,Phones,316.94,5,88.82,PayPal,64661895-461d-4ab3-8937-19209773676c
+2024-07-26,Christopher Hays,Illinois,Books,Fiction,345.5,7,49.22,Credit Card,44b60eab-15fb-46b9-9bc4-620d12279a8b
+2024-07-27,Sarah Wiggins,Ohio,Clothing,Shirts,434.12,8,87.15,Cash on Delivery,a620a3de-8059-47f5-9431-f71513b97bf8
+2024-07-27,Joseph Brown,North Carolina,Furniture,Chairs,474.66,5,120.87,Cash on Delivery,48633515-f7a1-4015-99aa-ed3a1aa51f44
+2024-07-28,Mark Decker,Ohio,Books,Non-Fiction,451.37,2,111.89,Credit Card,3d77eaa6-7e87-4d51-b023-4995c02a169c
+2024-07-29,Ryan Mendoza,Texas,Books,Fiction,380.46,3,78.9,Cash on Delivery,2bd23359-452e-46d5-ba83-31b67a3e05b4
+2024-07-29,Austin Herring,Ohio,Electronics,Phones,403.6,3,116.31,Credit Card,7b9ddb1f-6c44-4a1a-bb85-df2a8fef088a
+2024-07-30,Cheyenne Young,California,Clothing,Pants,104.08,7,24.17,Debit Card,a5dccb27-c840-40f6-ab54-3798fa40f256
+2024-07-31,Greg Harris,Florida,Electronics,Laptops,460.36,8,136.77,Debit Card,51a9c272-07ff-4ab9-98ae-de52a895340f
+2024-08-01,Andrew Mcgee,Illinois,Books,Comics,408.58,2,100.94,PayPal,874787e0-123e-474b-9381-40c141e5e72a
+2024-08-02,Sandra Reynolds,Texas,Toys,Action Figures,354.41,3,100.42,PayPal,8f92ec74-88ec-4018-baeb-83c320a00cb0
+2024-08-03,Jasmine Dalton MD,Ohio,Books,Non-Fiction,138.19,8,17.77,Debit Card,c3a898e6-4c03-4283-be33-8da05f4ec42b
+2024-08-03,Mark Simpson II,Texas,Books,Non-Fiction,127.54,3,29.18,Credit Card,bdcb9689-8578-4e40-91f0-db085973d13b
+2024-08-03,Lisa Harrison,New York,Books,Fiction,139.2,10,19.31,Debit Card,a9f59371-54c5-4c38-b5ee-21df5649a059
+2024-08-05,Lisa Hall,Illinois,Electronics,Accessories,171.2,3,30.86,Cash on Delivery,2a0b50e5-a732-455e-87ec-cb7de48ae176
+2024-08-06,Patricia Ramos,Ohio,Toys,Action Figures,301.35,4,81.82,Cash on Delivery,edef735a-c803-4a9b-b36d-1f5200861b4b
+2024-08-07,Danielle Hernandez,North Carolina,Books,Comics,310.73,4,59.95,Debit Card,6ea57ce3-b691-4fbf-b724-7e7dc633003d
+2024-08-07,Brittany Odonnell,Florida,Toys,Puzzles,53.68,5,7.42,PayPal,7cdf4215-f5a6-4032-ac1c-bc94adb4eded
+2024-08-10,Kiara Wilson,North Carolina,Furniture,Tables,249.21,8,58.32,Debit Card,be280ee4-0743-4b73-8700-acf0d8f15523
+2024-08-11,Beth Morgan,North Carolina,Toys,Action Figures,198.21,3,24.71,Credit Card,6c56aaba-3711-4368-bfa0-9e59acf92d52
+2024-08-11,Kimberly Johnson,Texas,Toys,Action Figures,119.96,3,22.39,Credit Card,8d5f8153-a3df-4e6d-b555-5e7f77694756
+2024-08-12,Kevin Brown,Illinois,Electronics,Accessories,47.11,9,11.69,Debit Card,92f2e216-4898-4f3c-9338-950e81d28c5a
+2024-08-12,Amy Smith,Ohio,Books,Fiction,94.0,9,22.76,Debit Card,2e19223a-5e23-40b6-9556-a2580da6e318
+2024-08-13,Jessica Bell MD,California,Electronics,Laptops,83.06,7,23.8,PayPal,3dd3432d-b0e7-41a2-a22c-2310b0b71d47
+2024-08-14,Rose King,California,Toys,Action Figures,188.55,2,47.13,Debit Card,674aa207-fb13-4e52-8a9b-94693a149ae5
+2024-08-15,Lisa Diaz,North Carolina,Books,Non-Fiction,155.58,5,27.22,Debit Card,5e7b6446-6233-43f3-af7d-76505a0bb938
+2024-08-16,Jean Lang,Florida,Furniture,Chairs,99.5,6,13.71,Debit Card,d9ba1201-3872-4b7d-8038-c6905c58541c
+2024-08-17,Dale Pham,North Carolina,Clothing,Shoes,35.43,8,6.0,Credit Card,30648a0d-6656-4a40-a99c-76cf032045e1
+2024-08-18,Jeffrey Harrell,Texas,Furniture,Chairs,459.79,8,88.11,PayPal,af1b87cf-6671-4f38-bdb6-a39766df5ee6
+2024-08-18,Heather Watts,Georgia,Books,Fiction,40.69,2,4.44,Credit Card,f0c4797a-18e3-44da-8c3c-60593d60f00b
+2024-08-20,Sherry Lang,Texas,Furniture,Chairs,473.8,7,49.72,Credit Card,62098e7f-302e-4d91-b9c5-ec243fedd73f
+2024-08-21,Sean Dudley,California,Toys,Educational,187.25,6,22.59,Cash on Delivery,5a271afe-b3bc-400e-8ef0-2ea42d764d3e
+2024-08-21,Gloria Hall,New York,Toys,Educational,101.47,3,23.09,Cash on Delivery,e869c873-097e-4d5a-a539-76b0c2d4d561
+2024-08-22,Joshua Taylor,Texas,Toys,Puzzles,156.19,1,37.12,PayPal,6f6a54e4-7bf6-4f62-afa7-e63085d865d0
+2024-08-24,Tanya Mann,Florida,Clothing,Shoes,105.85,8,19.88,Cash on Delivery,397374c3-0c3f-45f5-a9a8-b651b690598c
+2024-08-24,Colleen Kirk,California,Toys,Educational,100.27,10,26.19,Credit Card,12f01176-47c4-48c5-a007-f2f816c2fe4d
+2024-08-24,Sara Sullivan DDS,Illinois,Electronics,Phones,403.52,1,87.68,Cash on Delivery,a6f716b6-b6b1-4bc7-a068-b993b8f7229d
+2024-08-27,Debra Dunn,North Carolina,Books,Comics,282.9,8,80.55,Cash on Delivery,0b01cc86-48af-4744-8dc8-bea278386eba
+2024-08-28,Daniel Cook,Georgia,Furniture,Chairs,305.73,3,80.75,Cash on Delivery,31157c5a-6be3-4a3a-b58d-d9f1baf4432b
+2024-08-28,Felicia Nelson,Florida,Books,Comics,299.0,1,78.31,Debit Card,56147edc-38c7-4def-b586-833abe48c2f8
+2024-08-29,Megan Moore,New York,Electronics,Phones,183.83,10,38.87,Credit Card,c9d5d6f8-10e8-4e36-bc20-e502c19d4a3d
+2024-08-30,David Miller,Illinois,Electronics,Laptops,114.21,6,28.1,PayPal,8a64a498-bf2b-4442-bac5-515211eee800
+2024-08-30,Kelly Cross,Georgia,Books,Non-Fiction,92.36,6,25.09,Cash on Delivery,5097e092-5b9e-42bd-a25e-a37f05874a19
+2024-09-01,Justin James,North Carolina,Electronics,Accessories,219.43,9,62.39,Debit Card,a0d7edc8-0656-43b5-bc1d-1ecc21aac94f
+2024-09-03,Kristina Holland DDS,Texas,Furniture,Chairs,497.33,7,139.13,Cash on Delivery,42099dde-1352-4cf9-a350-6607fc6291ea
+2024-09-04,Scott Hamilton,Texas,Toys,Educational,367.11,6,94.55,Credit Card,4fd4fccb-0a42-4278-a58f-04ae2d09b349
+2024-09-04,Craig Jones,Illinois,Toys,Educational,196.8,10,30.62,PayPal,d0515d5d-1dfb-4b35-b4cb-a55044621add
+2024-09-04,Brian Riddle,North Carolina,Clothing,Shoes,428.05,6,116.42,Debit Card,65163311-ed15-43e6-b025-1e65f7dc5b1b
+2024-09-04,Kenneth Fields,California,Electronics,Accessories,53.27,6,5.41,Credit Card,5009b190-6cc7-4f30-878b-ad8f12984902
+2024-09-05,David Davis,Ohio,Clothing,Shirts,493.33,5,145.08,Credit Card,0ca378ef-8fbc-4319-9ae4-9fbb21460650
+2024-09-06,Shannon Hernandez,North Carolina,Clothing,Shirts,136.13,8,22.96,PayPal,d0490248-7df6-4526-bcae-024c11feaed1
+2024-09-06,Betty Gilbert,North Carolina,Furniture,Tables,29.36,6,8.42,Cash on Delivery,6d1bfcd2-7fda-401f-a8ad-20eacb17508e
+2024-09-07,Patricia Preston,California,Toys,Action Figures,93.24,2,14.83,Debit Card,d783df7e-0a2b-4a53-ab38-57d20458cf20
+2024-09-11,Dustin King,Texas,Electronics,Phones,377.12,6,69.67,Cash on Delivery,254a35d3-e584-43e0-a713-422bbc07fb9f
+2024-09-11,Kenneth Benton,North Carolina,Furniture,Beds,77.56,3,22.49,Credit Card,0e0238e8-ff1c-4511-89b0-e987f8a45167
+2024-09-11,Cristian Reyes,Georgia,Electronics,Accessories,182.34,7,44.85,Credit Card,1f9fbd9a-57da-4e93-bf78-b883678993a0
+2024-09-12,Ashley Smith DVM,Florida,Toys,Educational,27.78,7,3.25,Credit Card,ced8f99e-36f5-4703-b27c-3edbb8dbe1f3
+2024-09-14,Alexander Miller,Georgia,Clothing,Shirts,106.86,10,30.23,Cash on Delivery,4b379753-c634-4ab0-95a3-be1347dc3d78
+2024-09-16,Mariah Wong,Illinois,Furniture,Chairs,408.17,2,103.17,Credit Card,ab160492-3a7f-4116-b20a-5c554baf9d55
+2024-09-17,Jade Ryan,New York,Furniture,Tables,101.93,7,27.69,PayPal,6766f405-86ea-4a8c-b839-28fe0d9f26b9
+2024-09-18,Eric Allen,Illinois,Books,Fiction,289.11,5,58.14,Cash on Delivery,0d63b08b-8aec-4229-b729-7954add2ab40
+2024-09-19,Andrew Gordon,North Carolina,Books,Fiction,118.3,8,23.11,Cash on Delivery,de5fe747-68ff-464d-8cde-e02354ca316b
+2024-09-19,Lauren Fowler,Ohio,Books,Comics,255.96,10,31.14,PayPal,840f562b-d7bf-42da-b757-7455e69001e7
+2024-09-19,Jonathan Hernandez,Texas,Clothing,Shirts,324.32,2,55.98,Debit Card,1b62290b-db46-4b30-8b2b-273bbf626ff4
+2024-09-19,Karen Wilson,Georgia,Toys,Action Figures,119.11,1,22.03,Credit Card,b5a9205f-17ed-494f-91ed-ebf72a5a1b62
+2024-09-19,David Robinson,California,Books,Fiction,209.29,6,51.4,PayPal,68b9260f-fe76-4f1d-890b-ab6a1090030c
+2024-09-20,Becky Green,New York,Toys,Action Figures,266.91,8,55.87,Debit Card,b4005d21-7320-4197-842a-0a1c5abcfdcb
+2024-09-21,Sarah Smith,Georgia,Books,Fiction,416.9,3,55.98,PayPal,f040baab-86d5-4e7f-b120-4219b889f240
+2024-09-22,Erik Jones,Florida,Clothing,Shirts,67.41,4,15.94,Credit Card,633e63f9-a0f8-44a3-9250-08f3bf6a3f57
+2024-09-22,Caitlin Baird,Florida,Clothing,Shoes,249.01,10,44.55,PayPal,7aacacb9-f1bb-45ce-b755-35b60576ba8d
+2024-09-22,Amy Cook,Georgia,Toys,Action Figures,415.75,1,83.17,PayPal,e547f4a4-dd5e-44a0-af29-de2ecc5fa5ed
+2024-09-24,Frank Roberts,Illinois,Electronics,Accessories,120.81,4,33.29,Debit Card,8f5600ae-f13a-4d3e-ba60-feaf8f5b9e37
+2024-09-24,Jasmine Forbes,Georgia,Toys,Puzzles,247.98,1,31.34,Cash on Delivery,9b4a0b6c-17f1-426f-82b9-903356440d3b
+2024-09-26,David Nguyen,Texas,Toys,Educational,335.13,9,57.79,PayPal,cb8bb4ec-17ab-437f-b3c9-2b22a6492b39
+2024-09-26,Steve Castillo,California,Furniture,Chairs,233.41,5,30.02,PayPal,8ddd7ebc-3230-492b-be0b-987be985c5e6
+2024-09-29,Alan Allen,Georgia,Clothing,Shoes,351.19,3,59.84,PayPal,25843b34-b84b-42a5-b2cf-5dfb8bdb5a58
+2024-09-30,Timothy Kramer,New York,Books,Non-Fiction,223.2,7,56.89,Debit Card,bfdc9b86-1ea9-4fd2-8c9e-dc18aca60a18
+2024-09-30,Jennifer Brown,Illinois,Toys,Action Figures,235.99,4,46.24,Credit Card,a6ea9645-ab29-44b1-bcba-fbe3f4a37f41
+2024-10-02,Mary Patrick,Texas,Clothing,Shoes,321.8,7,51.64,Debit Card,fceae43a-596d-444e-8351-231e94a90fa4
+2024-10-02,David Yang,Illinois,Clothing,Shirts,141.54,6,32.47,Cash on Delivery,0e99a3e0-989a-455f-9408-e3cd7fca7140
+2024-10-02,Angela Turner,Georgia,Toys,Educational,468.9,8,134.05,PayPal,9aa4ad4d-aa99-4c0e-9a36-dfa828c1b740
+2024-10-03,David Flores,New York,Electronics,Laptops,82.1,7,20.52,Debit Card,ed0f8e4b-532d-4445-86a5-85b71994ebe9
+2024-10-04,Danielle Finley,Texas,Electronics,Accessories,272.3,6,80.67,Debit Card,8a419528-82ed-475a-a6f3-8aaa00c7a3be
+2024-10-04,Tiffany Castillo,North Carolina,Toys,Educational,319.46,1,38.64,PayPal,77208397-890b-4e59-8fcb-228df957f123
+2024-10-05,Jacqueline Wilson,California,Electronics,Laptops,499.99,5,69.41,Cash on Delivery,f26de14c-0134-4389-bdbf-965243688b44
+2024-10-07,Lisa Lambert,Florida,Clothing,Shoes,420.42,1,79.44,Debit Card,ffce64a0-de68-4e18-9523-6af8a5113e30
+2024-10-07,Shari Mills,New York,Electronics,Laptops,491.55,4,82.32,Debit Card,02d5e39a-938e-4d8e-aca6-d1a7bece6d55
+2024-10-08,Curtis Lee,Ohio,Electronics,Accessories,389.81,7,61.06,Credit Card,4b675412-5dc6-4a25-9fc2-2e0301d4fbab
+2024-10-08,Larry Hunt,California,Toys,Action Figures,414.25,1,51.46,Debit Card,33972733-4ea1-48dc-b5fe-b42990cacbd9
+2024-10-09,Carrie Montgomery,Texas,Clothing,Pants,260.63,2,75.46,Cash on Delivery,113a9b43-2c07-4f35-95fb-5dc6a1c93108
+2024-10-09,Anne Bradley,North Carolina,Books,Fiction,396.08,10,84.06,PayPal,e835c0c4-7049-4484-8415-8e811a0346f0
+2024-10-09,Sharon Hart,Illinois,Clothing,Pants,465.59,2,49.35,Cash on Delivery,dacaa238-eacf-46ea-a2cc-dd33504b248c
+2024-10-10,Ashley Williams,Texas,Toys,Puzzles,403.64,5,107.78,Debit Card,d24183ea-3eb8-4f71-af67-43487e0d91dd
+2024-10-10,Laura Payne,Texas,Toys,Action Figures,401.49,3,75.24,Cash on Delivery,3d254de0-5e53-4d95-baf3-63567f82495b
+2024-10-10,Andrew Hodges,Georgia,Books,Fiction,206.45,10,49.94,Credit Card,349b72f4-791c-4514-9d38-4fffd20a4452
+2024-10-12,Brenda Curtis,California,Furniture,Beds,58.17,8,9.02,Debit Card,ec445ac1-dc7a-4dd4-96e6-b08ea041e711
+2024-10-13,Tyler Hoover,Florida,Books,Comics,268.45,3,32.07,PayPal,c454d485-83cc-460b-b22e-a70d6dd5ec5f
+2024-10-13,Cynthia Taylor,Texas,Books,Non-Fiction,60.08,10,16.61,PayPal,4f8d4a96-7e51-4edb-9684-86cd274589f9
+2024-10-14,Sandra Williams,California,Books,Fiction,385.11,2,99.58,PayPal,3a63c678-d9cf-4161-8fa6-f7e37e0e8994
+2024-10-15,Timothy Everett,Illinois,Clothing,Shoes,170.13,6,47.35,Cash on Delivery,737ca001-c530-4e62-8c49-be302b2fd64b
+2024-10-15,Sandra Mcgee,North Carolina,Books,Comics,439.76,7,78.07,Credit Card,9b508980-f73d-4802-9395-4fe4181ff090
+2024-10-16,Brenda Wise,Georgia,Furniture,Chairs,467.81,3,89.83,Debit Card,14d5ecac-fd5e-4fcd-9f1c-5f48c22cc537
+2024-10-17,Elizabeth Curry,Georgia,Furniture,Tables,324.31,2,66.15,Cash on Delivery,ae404712-f7a9-470b-aa23-c08b03f33ace
+2024-10-17,Valerie Blake,Illinois,Books,Fiction,177.67,1,27.11,Debit Card,3d47f328-d088-4e8f-a0c8-97bfcbd40cd1
+2024-10-18,Cynthia Green,North Carolina,Books,Fiction,467.93,5,78.4,Debit Card,f731101d-f8e4-4bfc-80d8-b5cee600a879
+2024-10-19,Jennifer Hughes,Illinois,Electronics,Phones,391.15,9,71.06,Cash on Delivery,be744460-8f86-4281-8cfc-359cdd2080ff
+2024-10-19,Jeffrey Burns,Florida,Clothing,Pants,163.38,7,45.45,Credit Card,e7f74868-1dae-43f3-8096-7b641ae37b5a
+2024-10-20,Samantha Clay,Texas,Toys,Action Figures,377.14,8,90.2,Credit Card,0238e7cc-af67-47c2-b3e4-43557eefcf54
+2024-10-21,Taylor Lara,Georgia,Furniture,Beds,106.45,8,16.96,Cash on Delivery,813d6abc-cfab-4c55-bacd-e0b7f4e91654
+2024-10-21,Scott White,Georgia,Clothing,Pants,244.17,7,69.72,PayPal,8ceb745b-9eec-422c-85ac-e3d4570cd368
+2024-10-21,Lori Thompson,Florida,Furniture,Beds,321.37,7,42.68,Cash on Delivery,21e2d1e2-b03d-4b90-a477-d8b6d9c56978
+2024-10-21,Timothy Gray,North Carolina,Furniture,Beds,193.16,7,33.49,PayPal,dc759d12-5d99-4715-bfaf-354802bf2d00
+2024-10-21,Emma Anderson,Texas,Clothing,Shoes,80.84,1,13.68,PayPal,feb27e42-7d3a-41a2-a6ca-893e6de1e48c
+2024-10-21,Jessica Woods,Illinois,Books,Comics,326.13,9,43.18,PayPal,93580503-ff40-4304-a2ac-7cb9423a5012
+2024-10-22,Donna Gonzales,Ohio,Electronics,Accessories,201.89,4,33.91,Credit Card,e98d306c-63dd-4ecf-a4f3-534f461f2b2f
+2024-10-22,Maria Hodge,Texas,Electronics,Phones,480.83,9,124.03,Debit Card,1d92358f-8b39-48cd-84a0-d67ef795f8e1
+2024-10-22,Barry Cross,Ohio,Books,Non-Fiction,219.29,10,50.49,Cash on Delivery,36b66b2b-fbc6-4962-982d-08fb854e39c8
+2024-10-24,Rebecca Jones,Ohio,Clothing,Shirts,274.0,1,66.52,PayPal,82b559f2-2e1d-4775-bb5c-c1211aa52fe7
+2024-10-26,Kathleen Lewis,Ohio,Toys,Action Figures,322.9,1,85.3,PayPal,1f56b218-ba66-439b-9a38-6b111e1cca75
+2024-10-27,Misty Hunter,New York,Furniture,Beds,45.29,1,10.55,Cash on Delivery,6f7e1487-a50c-4ac6-8419-4d00ec45f67b
+2024-10-29,Shawn Lawson,Florida,Clothing,Pants,292.93,4,31.24,Credit Card,32063f4b-5dc5-4718-aaf1-98d88fa9cd9c
+2024-10-29,Raymond Ellis,Georgia,Furniture,Beds,104.61,3,20.26,Cash on Delivery,e487c9e2-e65b-4f26-8e58-6104f9e9e037
+2024-10-29,April Gardner,Georgia,Electronics,Laptops,231.47,1,29.36,Credit Card,539b0e5d-2299-426a-8798-a383e993d3b7
+2024-10-30,Crystal Newton,Florida,Toys,Educational,37.76,1,5.28,Cash on Delivery,127241c3-71c6-4002-99a3-b53739f80e0e
+2024-10-30,Adam Armstrong,Georgia,Furniture,Tables,157.33,8,41.91,Credit Card,2dcf2b10-bb0a-4f51-bcb9-551fbb4a459f
+2024-10-30,Bobby Hall,North Carolina,Toys,Puzzles,23.46,8,6.91,Cash on Delivery,757b4b81-bc62-4129-bd3d-85a4ffbbdfda
+2024-10-31,Sharon Kelly,Florida,Books,Comics,418.2,3,114.1,Cash on Delivery,48f1f088-1f0e-4262-9233-5dfce123ca4f
+2024-10-31,Adam Harris,Texas,Electronics,Accessories,186.64,1,47.76,Debit Card,f1475a69-ea03-4194-9224-690b848d0166
+2024-11-02,Jared Espinoza,Texas,Electronics,Accessories,216.58,3,23.08,PayPal,97c4b829-9a40-4c07-bd59-499a4ecbe1f6
+2024-11-02,Angelica Russell,Georgia,Toys,Action Figures,274.03,5,38.52,PayPal,3099b9ec-48b0-4145-af45-7407cbfc023c
+2024-11-03,Donald Park,Ohio,Electronics,Phones,235.79,3,62.69,Cash on Delivery,1a57b95b-8294-4fff-a69f-7689ac0ab49e
+2024-11-04,John Prince,Illinois,Books,Fiction,124.7,8,17.1,PayPal,cf22d85b-094e-43fa-91a6-02859e236fc9
+2024-11-04,Elijah Beck,Illinois,Electronics,Laptops,125.17,9,30.2,PayPal,84c50c9a-62e2-4da3-bcbb-8a8baf05da7c
+2024-11-05,Wanda Grant,North Carolina,Furniture,Tables,37.11,10,8.54,Credit Card,2828370c-b5dd-4b0b-8a24-8628ea871ef0
+2024-11-05,Matthew Goodman,Illinois,Furniture,Beds,471.23,2,136.1,Credit Card,b2f3fa3f-c96d-47cd-867f-a54e0b87f5d1
+2024-11-05,Nicole Rocha,Florida,Books,Comics,425.95,2,46.02,Cash on Delivery,f9540c2d-8919-4d57-abde-714dfdc7c860
+2024-11-05,Blake Hunter,Illinois,Clothing,Pants,94.15,3,16.17,Debit Card,dacd54df-3675-4056-ac35-3b6505239a9b
+2024-11-05,Robin Smith,Georgia,Toys,Action Figures,136.78,8,26.01,Cash on Delivery,7ec40cb1-6b1c-41e0-ad74-dd1bab9dc2ba
+2024-11-06,Jody Miller,Florida,Toys,Action Figures,466.65,10,124.96,Debit Card,fea50294-ec2c-4755-a342-d821389401d6
+2024-11-06,Pamela Sims,New York,Books,Comics,486.3,9,115.13,Cash on Delivery,677bc5e9-f9dd-4db8-8687-c1e5fb0ca05b
+2024-11-07,Rhonda Johnston,Georgia,Toys,Educational,470.23,2,90.71,Credit Card,57205694-0713-4548-805f-cb1100028dc9
+2024-11-07,Mrs. Rachael Savage,Illinois,Clothing,Shoes,278.26,1,71.04,PayPal,4093bcb1-595e-4e4d-b305-9ad04ce7f9d8
+2024-11-07,Taylor Schmidt,California,Electronics,Laptops,408.34,1,92.16,PayPal,ad992a10-be23-4b5e-8280-35e4f7e5026c
+2024-11-08,Vernon Wilson,Texas,Books,Non-Fiction,208.25,4,26.73,Cash on Delivery,b2812594-9013-4e3d-a2fe-4714db23e188
+2024-11-08,Jason Graham,Georgia,Clothing,Shoes,245.55,9,65.32,PayPal,fed242d9-4e3c-44cb-a2dc-3a98db8769ae
+2024-11-09,Alexander Johnson,Ohio,Clothing,Pants,135.69,2,13.92,Debit Card,3fd8ad88-8295-49b8-9b08-b217860e0a64
+2024-11-11,Julia Stevens,North Carolina,Clothing,Shoes,113.86,5,29.96,Credit Card,24d54395-0c2b-491d-b869-6a1b61601113
+2024-11-12,Kevin Sanchez,North Carolina,Toys,Action Figures,85.55,5,22.71,Cash on Delivery,e98b3a4b-7e63-404b-8f9a-0d077ad12cba
+2024-11-12,Maria Hunt,California,Books,Fiction,93.64,10,14.0,Debit Card,35c900bb-d556-450f-9467-b46114c258c1
+2024-11-15,William Reed,Illinois,Furniture,Beds,252.41,10,44.07,PayPal,b2834ae3-e69a-463d-bbf9-c65b99cb8606
+2024-11-15,Keith Brewer,North Carolina,Furniture,Tables,452.14,7,117.71,Cash on Delivery,853ef6d8-947d-4a8d-a34b-7c0d1e8b9cde
+2024-11-19,Melissa Robinson,Texas,Books,Non-Fiction,323.34,4,79.36,PayPal,6c543d8e-08ba-4290-bb3a-a77e06ae3e59
+2024-11-19,Heather Howard,Texas,Toys,Action Figures,60.72,2,11.07,Cash on Delivery,56ffbe2d-2108-43d9-8d56-cd02a30b5215
+2024-11-20,Emily May,California,Books,Non-Fiction,20.8,3,3.9,Credit Card,ca82870e-9ac4-4456-b0cc-16336909cb63
+2024-11-20,Joshua Williams,New York,Electronics,Phones,260.56,9,69.36,Debit Card,b7256361-c01a-4ad8-9763-ee3fceb2f5b2
+2024-11-20,Jamie Allen,Texas,Electronics,Phones,437.6,6,48.93,Cash on Delivery,52b999ff-c9c7-44cc-a837-56dfd85db7b8
+2024-11-20,Suzanne Johnson,Georgia,Electronics,Laptops,487.72,10,121.2,Credit Card,ac8796c1-4417-481c-9f5e-0bdbaa00d2d9
+2024-11-20,Michael Padilla,New York,Clothing,Pants,324.96,8,85.56,Debit Card,4049765b-0ca5-45af-a94f-8ae6e4c0219f
+2024-11-24,Tricia Swanson,North Carolina,Furniture,Chairs,426.28,8,77.34,Cash on Delivery,d2ecec84-f4b0-4265-be0e-ce0f12b51c32
+2024-11-25,Christopher Pope,California,Furniture,Tables,224.15,4,62.73,PayPal,d95afae3-bb49-47a6-82d6-8a662ad7a449
+2024-11-25,Taylor Ballard,Florida,Books,Fiction,391.81,3,73.38,Cash on Delivery,f9e9d20c-be4d-4026-8a22-f1341f0ac5ea
+2024-11-26,Heather Scott,Florida,Furniture,Chairs,317.56,6,83.81,Credit Card,00b0d89b-97d7-49f5-908a-05e0db5e50c0
+2024-11-27,Beth Petty,Texas,Clothing,Shoes,154.62,2,36.39,PayPal,525fffec-a481-40a3-bf6e-5765995c06e9
+2024-11-27,Nicholas Schmidt,Florida,Furniture,Beds,285.76,5,59.49,PayPal,8eeef4ee-5308-42c4-8624-a8aa1a26c898
+2024-11-27,Rachel Pittman,Illinois,Clothing,Shirts,224.07,7,35.26,Cash on Delivery,4d7924ad-1811-49e5-9810-f846e99c1ced
+2024-11-29,Ricardo Solis,New York,Books,Non-Fiction,481.95,7,83.03,Debit Card,6c4ae635-e049-457e-a9a4-71079891a326
+2024-11-29,Mary Tucker,Georgia,Furniture,Chairs,109.16,6,25.44,Cash on Delivery,e1a9ad66-827c-4afd-ac2c-3e6054c8c188
+2024-11-29,Aaron Patel,Texas,Clothing,Shirts,415.23,8,89.88,PayPal,25dc78fa-fdc4-486f-b95d-40f2f15eaa34
+2024-11-29,Reginald Davis,New York,Electronics,Phones,100.6,9,10.26,Cash on Delivery,8bd2b5c9-f5b8-41f7-9d80-8e4cf18d8999
+2024-12-01,Ryan Baker,Texas,Clothing,Shoes,426.47,5,97.57,Credit Card,a48ea921-9019-4957-8c96-e530104374ae
+2024-12-01,Jennifer Hunt,Ohio,Toys,Puzzles,183.47,6,39.56,Cash on Delivery,48d29a27-c649-4701-9fc3-87a0b1602330
+2024-12-01,Albert Lane DDS,California,Furniture,Chairs,487.03,9,80.4,Cash on Delivery,03a08585-3f46-45b8-a6f2-92fd953bad40
+2024-12-01,Katie Rice,Ohio,Toys,Puzzles,252.74,8,45.66,Cash on Delivery,82207bb1-4777-47c9-9a4a-db655f2ca04f
+2024-12-02,Nathan Collins,Texas,Electronics,Accessories,280.37,6,82.7,Credit Card,dc8365dd-2a41-4b76-a2ae-91dfc4b3db53
+2024-12-02,Jack Brown,Texas,Electronics,Accessories,208.62,7,26.22,PayPal,ca0accc1-8349-48d8-afa8-a3b232f3f88c
+2024-12-04,Theresa Peters,New York,Books,Fiction,221.94,7,46.66,Debit Card,2cfcc920-746c-4c17-af01-b77ac5a8e388
+2024-12-04,Dawn Miller,Texas,Clothing,Pants,226.67,7,47.35,Cash on Delivery,9c5b1574-9e30-4738-a693-6b4239326810
+2024-12-04,Jeremy Hoffman DDS,North Carolina,Electronics,Phones,480.07,6,113.16,Debit Card,ca52437a-0009-4931-8136-1161994d3e9e
+2024-12-06,Denise Sanchez,New York,Electronics,Laptops,479.0,2,105.65,PayPal,ca62faa9-5d6a-437e-81dc-fe9b2ed8c7f3
+2024-12-06,Candace Simmons,Ohio,Clothing,Pants,53.66,10,7.87,Credit Card,a754137f-d8c0-4df0-85c4-b57b5ed21327
+2024-12-06,Paula King,Florida,Furniture,Beds,350.84,4,69.66,Cash on Delivery,995c4cd6-6fc4-4a6c-a075-255c19247470
+2024-12-07,Timothy Logan,Texas,Books,Non-Fiction,467.97,7,47.95,Cash on Delivery,29cfc528-7f1e-4ca0-8987-ed506ce9992c
+2024-12-07,Justin Gross,Texas,Furniture,Chairs,256.57,4,62.9,Debit Card,35dde8a3-5104-4b4a-a51f-ba84ca8c084d
+2024-12-08,Mr. Chase Best Jr.,Georgia,Clothing,Shirts,287.79,10,55.22,Credit Card,32d8e448-00d6-4a23-be9d-42fcfa330403
+2024-12-11,Mrs. Jacqueline Weiss,Texas,Clothing,Shoes,365.41,7,55.74,Cash on Delivery,8346da27-3050-48c0-aa8a-bbf440e0d6d2
+2024-12-12,Courtney Craig,Illinois,Clothing,Shirts,170.03,6,25.59,Credit Card,a4638b72-6072-43d7-871f-e463cb772fe1
+2024-12-12,Mark Hernandez,Georgia,Clothing,Shoes,468.08,10,51.62,Credit Card,7f0aa475-c15a-46bb-b718-c4b95ae83458
+2024-12-12,Ricky Huynh,Georgia,Toys,Educational,340.04,6,50.71,Debit Card,b94fff5a-8306-43d1-846e-9ea4b08f4d1c
+2024-12-13,Adam Doyle,Florida,Books,Non-Fiction,90.04,7,15.48,Cash on Delivery,351f3a6e-3afd-4968-9f88-db49167252aa
+2024-12-13,Sean Thompson,Illinois,Electronics,Laptops,253.98,2,66.28,Debit Card,0797e004-7f88-4cec-8b86-d876adf7ed1f
+2024-12-14,David Fields,Georgia,Toys,Educational,309.16,3,36.5,Cash on Delivery,28b48005-154e-490c-92bd-13d5528a993d
+2024-12-16,Mark Hernandez,Florida,Electronics,Accessories,119.87,1,33.79,Cash on Delivery,e395b02a-2a4c-459d-b261-500b63c19d1a
+2024-12-17,Jeffery May,North Carolina,Clothing,Shirts,365.89,1,41.53,Credit Card,0bdc29be-45f9-4d11-b8ce-ebc09fc8d407
+2024-12-17,Amanda Andrews,Florida,Electronics,Laptops,207.76,4,60.58,Credit Card,a5fe3339-aed9-49b9-842e-912585b146b3
+2024-12-17,Bradley Love,California,Toys,Puzzles,434.43,5,115.0,PayPal,044fc2e7-9340-485d-b036-c4d05bb4ea87
+2024-12-18,Lori Fitzgerald,Ohio,Books,Fiction,393.7,4,93.51,Credit Card,abf543ea-8c1e-4ab2-9a92-c63f6975ca80
+2024-12-19,Terry Smith,Georgia,Electronics,Phones,419.0,1,78.33,PayPal,878e31b4-90ca-48f9-b52f-71cab85a68ad
+2024-12-19,Mark Poole,Florida,Furniture,Chairs,112.11,7,25.95,Debit Card,18d75f4d-725d-43ba-b506-4ff2c0fbabae
+2024-12-21,John Kline DDS,Florida,Clothing,Shirts,148.35,7,37.95,Debit Card,69318c6f-ee2c-4528-ba66-d7ef82fb1421
+2024-12-22,Matthew Walker,Ohio,Books,Fiction,345.12,6,72.03,PayPal,e2ca5c45-2f21-4a7e-96e1-062adb081220
+2024-12-23,Mrs. Amy Townsend MD,Florida,Electronics,Accessories,270.07,8,29.29,Debit Card,0913c986-42dd-4f2a-9ee9-4f889cd3c533
+2024-12-23,Jeremy Jackson,New York,Toys,Puzzles,400.52,10,40.45,Credit Card,f2df0f17-f202-4d80-9bc0-1f5bbc318425
+2024-12-23,Kimberly Smith,Illinois,Books,Comics,238.15,3,50.11,PayPal,b2d7fcde-265e-4871-9bae-4f2ccb471fdd
+2024-12-24,Maria Conrad,Georgia,Clothing,Pants,397.03,1,44.94,Credit Card,a8eaf502-af34-4036-9aa2-51d58b24a535
+2024-12-26,Jennifer Le,California,Electronics,Accessories,111.55,8,25.99,PayPal,7c70e820-ca48-4e90-a1fa-293e94a5eb85
+2024-12-26,Natalie Barnes,California,Books,Comics,165.63,10,22.0,Cash on Delivery,1e54e35e-94a7-497e-bc5b-da45b4e795fc
+2024-12-26,Kelly Anderson DDS,New York,Electronics,Laptops,164.5,7,40.86,Debit Card,c1204056-f401-4432-b8ca-6aec1a98ef1e
+2024-12-27,Andrea Kerr,North Carolina,Furniture,Chairs,211.57,4,40.08,Credit Card,8e286860-c576-4db3-9f14-898c7b28ce7b
+2024-12-28,Walter Good,Georgia,Toys,Puzzles,89.52,8,20.01,Debit Card,da46ebd8-4b91-46f4-8a66-3781e2ee82f5
+2024-12-28,Kim Ashley,California,Furniture,Tables,56.61,6,12.86,Debit Card,ee5fc45f-3841-499a-885d-32a4c9900fa7
+2024-12-28,Gregory Hubbard,New York,Furniture,Chairs,64.16,10,12.31,Debit Card,a5eb11ca-14bd-420b-a2eb-8e4bbc24b4bf
+2024-12-29,Madison Wilson,Georgia,Books,Non-Fiction,472.06,5,80.8,Debit Card,9507f37b-443f-45bd-8465-60cc1c34546a
+2024-12-29,Daniel Cochran,Florida,Electronics,Phones,279.4,3,50.91,Cash on Delivery,e1400122-0e48-45d7-b59e-c3c14cde14a9
+2024-12-30,Travis Jones,North Carolina,Electronics,Laptops,302.64,2,40.91,Credit Card,c042ff5f-c54f-4bf6-a8be-bec75c23210b
+2024-12-31,Kristin Bright,Florida,Toys,Action Figures,400.03,7,112.24,PayPal,c0ca7610-04c8-448a-a097-984cf4252ba4
+2025-01-01,Ryan Carpenter,New York,Clothing,Shirts,23.69,4,5.97,Debit Card,78c787d3-fb36-4213-8a7e-0ef8d0066c29
+2025-01-02,Joseph Brown,California,Toys,Action Figures,166.66,8,21.89,Debit Card,2501864e-5f0e-4ee1-9dc3-42dec08518fa
+2025-01-02,James Chaney,California,Clothing,Pants,486.17,3,129.82,Cash on Delivery,f2ac09a9-13c6-4e37-aa1d-37b5dbab81b1
+2025-01-03,Calvin Melton,Illinois,Books,Comics,127.57,6,35.02,Debit Card,d925c0ea-cc85-48d9-b34c-6c87becdfa2e
+2025-01-03,Gary Davis,North Carolina,Furniture,Chairs,186.55,2,45.39,Credit Card,3b35c91f-60d8-4b82-a3cf-ec4cc72fccfa
+2025-01-04,Erin Williams,Illinois,Books,Non-Fiction,472.18,10,78.47,Cash on Delivery,965f745e-afb0-4a9d-905a-3ecaebf21097
+2025-01-05,Jennifer Perez,Ohio,Furniture,Beds,183.83,2,27.58,Cash on Delivery,ce698208-1b63-4a1c-a8c0-7596ade31b40
+2025-01-06,Gabriela Watts,Illinois,Books,Comics,29.15,9,3.3,Cash on Delivery,4c1f5f50-16e9-4474-acf4-916a571c066f
+2025-01-07,Dr. Maria Lamb,Texas,Toys,Action Figures,448.41,5,76.21,Credit Card,6e03dd93-f259-4956-8ad2-3bcb82ad42a3
+2025-01-10,Mary Wood,Texas,Toys,Educational,147.74,3,25.49,Cash on Delivery,bc79bb54-d2aa-421a-83d3-6bd1555f47f2
+2025-01-10,Sandy Clayton,Texas,Books,Comics,130.53,10,30.81,PayPal,0a13aa4a-d6a8-4d40-a789-f20edc7c9b02
+2025-01-11,Kristin Hall,Illinois,Books,Non-Fiction,272.33,1,46.8,Credit Card,a5a51b62-85e0-4b57-ace8-a3119f72d789
+2025-01-12,Meagan White,New York,Electronics,Accessories,54.68,5,15.72,Debit Card,bb05270d-40b3-4310-a7bf-d40c132fb052
+2025-01-12,Randy Edwards,North Carolina,Clothing,Shirts,482.91,2,120.08,Cash on Delivery,625d075c-f762-4922-9278-47f60734c2d2
+2025-01-13,Eugene White,Florida,Furniture,Chairs,194.47,5,45.25,Debit Card,b9ff7fe5-9eee-483d-8c2c-d24abc870064
+2025-01-14,Michael Brock,California,Clothing,Pants,468.05,2,113.72,Credit Card,d482d0c9-8d84-4b61-a0c4-f0c3325b9af9
+2025-01-15,Tracey Contreras,Texas,Toys,Educational,219.14,2,58.42,Cash on Delivery,5adc2516-0407-49a4-aa47-9d92292b683b
+2025-01-16,Sally Walker,Texas,Books,Comics,254.09,3,71.87,Credit Card,56a5ea28-969a-4f57-9657-0d5052126dec
+2025-01-16,Jason Harding,New York,Clothing,Pants,488.81,6,99.99,Credit Card,8946d07d-b477-421b-a9a2-6c588bcb2e85
+2025-01-16,Dawn Anderson,Illinois,Electronics,Laptops,423.74,9,97.47,PayPal,107175e8-c4ed-4f57-b45b-a982ec324194
+2025-01-17,Haley Adams,North Carolina,Toys,Puzzles,138.89,3,26.29,Credit Card,546edea9-05df-44b8-9b36-81c0bb2de7f1
+2025-01-17,Jill Ramirez,North Carolina,Books,Fiction,239.23,5,40.7,Cash on Delivery,2b8aa2c7-247a-43ce-a83d-906508d108cf
+2025-01-17,Jonathan Parsons,Texas,Clothing,Pants,45.9,6,11.74,Cash on Delivery,6058f84e-9fdf-4651-8fa7-be813743166e
+2025-01-17,Trevor Wallace,Ohio,Toys,Puzzles,315.77,9,61.47,PayPal,189fbfef-3761-4b8c-bb57-c6d8282e6939
+2025-01-18,Mackenzie Parks,Florida,Clothing,Shoes,443.68,5,89.07,Debit Card,10b825c6-a08d-470d-acab-d33e44f7e625
+2025-01-19,Lisa Young,Florida,Furniture,Tables,394.36,5,97.8,Cash on Delivery,7acb9e5c-69e2-46f7-867f-40aed875252c
+2025-01-20,Marc Hall,Florida,Electronics,Accessories,99.09,2,12.46,Credit Card,e15c499f-90d9-419e-8ddd-6596a90cd994
+2025-01-20,Matthew Mcknight Jr.,New York,Electronics,Phones,241.52,4,71.05,Cash on Delivery,a51636cd-5b4f-4a6a-b4cb-f2da2ee67bbc
+2025-01-21,Brittany Barrera,Georgia,Toys,Action Figures,22.34,1,6.33,Debit Card,07bb9c02-dedf-4876-9948-b0e813c977aa
+2025-01-21,Steven Harrison,Ohio,Books,Fiction,62.53,8,7.84,PayPal,fe382abf-b9e8-439b-9e6c-885a19ab8d2e
+2025-01-22,Brandon Reyes,New York,Electronics,Phones,140.23,10,32.34,Credit Card,99e0a5b4-f228-437b-9dce-ea5663f1badf
+2025-01-22,Andrea Walls,California,Toys,Educational,214.65,2,63.17,Cash on Delivery,c2da85ed-a31d-4176-8726-e1a92c8a81f3
+2025-01-22,Faith Hall,California,Electronics,Phones,479.67,7,118.8,Credit Card,3487915a-b78e-4385-b608-41ae76d9001e
+2025-01-23,Kara Blair,California,Electronics,Phones,292.09,2,55.39,PayPal,82d5ae96-c1bb-4b2b-b61e-75cf7244b0ed
+2025-01-23,Richard Davidson,Illinois,Electronics,Accessories,285.58,1,60.36,PayPal,2ab07808-bd15-4a34-b04b-be3673169cee
+2025-01-23,Ronald Hernandez,New York,Electronics,Phones,64.97,6,17.64,Credit Card,e48e2da6-9ba5-48a8-bdc1-be6dce9cb6a7
+2025-01-24,Brandon Villarreal,Florida,Furniture,Beds,204.2,5,59.61,Cash on Delivery,6b341239-5209-461f-afac-56cf2eac3baa
+2025-01-25,Jennifer Murillo,Illinois,Books,Non-Fiction,367.92,7,65.87,Cash on Delivery,ad662417-852e-4377-a074-0dbf59f716fa
+2025-01-25,Hailey Spencer,Illinois,Clothing,Pants,326.97,3,69.15,Cash on Delivery,ecdf745a-cdf5-4775-bad6-4996b2a6713e
+2025-01-27,Jenny Gonzalez,Florida,Clothing,Shirts,177.74,3,18.3,Credit Card,d5bffc2f-85f5-41e3-9efe-37fbc7aceb5f
+2025-01-27,Kevin Brown,Georgia,Clothing,Shoes,103.99,6,18.77,PayPal,aa7af254-9e34-4996-aaff-8ad24dd9e941
+2025-01-28,Judy Parker,North Carolina,Clothing,Pants,235.26,2,40.67,Credit Card,b44ec346-c764-4264-a3c5-01289fe1c6b6
+2025-01-29,Randy Cox,Florida,Toys,Puzzles,208.27,6,32.99,Debit Card,4028d3b6-9e85-43d8-bc2e-5ef5e58d9e16
+2025-01-29,Dr. Stephen Duncan,New York,Books,Non-Fiction,430.55,8,60.81,PayPal,95c590cf-66b4-4d8a-a29e-1adf90bef2f1
+2025-02-01,Crystal Baxter,Texas,Electronics,Accessories,219.2,8,56.45,Credit Card,f30fa49c-ac32-465c-a890-19b35fa2cfb8
+2025-02-01,Thomas Rice,Georgia,Books,Fiction,222.08,6,54.28,Cash on Delivery,499c19db-61e9-479f-8251-b69728d39fd2
+2025-02-01,Ivan Malone DDS,New York,Clothing,Pants,201.5,3,47.97,Cash on Delivery,00d14fb7-be7a-4842-a3c7-716384a63b39
+2025-02-03,Patricia Green,Florida,Books,Fiction,449.8,2,128.59,Debit Card,39e0139e-0ea3-41a4-b7b7-cf987f07d1f8
+2025-02-04,David Roy,Illinois,Toys,Educational,61.41,4,13.62,Cash on Delivery,2ff66f6d-71ce-4cd0-b3de-4694a4aaa172
+2025-02-04,Maria Williams,North Carolina,Books,Comics,341.04,10,92.07,Cash on Delivery,70abb69f-41fe-499e-965a-cd28a4ce1d21
+2025-02-04,Marcus Johns,Florida,Toys,Action Figures,198.47,2,46.62,Credit Card,c5e921af-79d8-4139-96c8-cafa24e191e4
+2025-02-05,Randy Gibson,North Carolina,Electronics,Laptops,97.12,3,24.98,Credit Card,47f3d12d-b690-47d6-b375-0438f38acbc0
+2025-02-05,Sandra Taylor,Ohio,Books,Fiction,313.42,2,42.44,Cash on Delivery,3bf9cdbc-823c-4e9c-832e-ffe3c0ace0f1
+2025-02-06,Chelsea Simpson,Florida,Furniture,Chairs,305.61,5,58.76,Cash on Delivery,ec9bd62d-422e-40bb-8303-c6fb5043be7a
+2025-02-06,Brett Gray,Texas,Toys,Educational,398.25,1,48.1,Cash on Delivery,b3678816-5937-423c-823d-b891bc5f72c2
+2025-02-08,Chelsea Gates,Florida,Toys,Puzzles,322.28,2,89.07,Cash on Delivery,2a7d6e3e-3665-4130-ad4c-9bea31225e1f
+2025-02-09,Jennifer Roberts,Ohio,Books,Fiction,345.88,5,51.73,PayPal,37f337bf-37be-4ac2-8b36-27cfb1a80723
+2025-02-10,David Faulkner,North Carolina,Toys,Educational,347.07,5,54.13,Debit Card,aa5a8181-93a6-41bc-be5c-46ffb599f2ac
+2025-02-10,Antonio Duran,Florida,Clothing,Pants,455.67,4,105.6,Cash on Delivery,c9f39500-43f2-4467-b442-95dc4fc355e2
+2025-02-10,Jacob Cooper,North Carolina,Clothing,Shirts,233.48,7,60.62,Credit Card,96696703-f6e9-4269-b1b1-c09a37c7826e
+2025-02-12,Amy Peters,New York,Clothing,Shoes,353.33,10,47.84,Cash on Delivery,9cadbc9a-3f5d-43a1-b0f5-1d753f8ba228
+2025-02-13,Kelly Burns,New York,Clothing,Shirts,124.41,6,18.38,Cash on Delivery,8d66ba41-4dff-4d0c-9227-6da477035224
+2025-02-14,Wendy Keller,Georgia,Clothing,Pants,256.14,7,62.03,PayPal,c6cbcae1-d0d9-4aca-b638-4852281862f3
+2025-02-14,Jodi Rowe,California,Clothing,Pants,331.85,10,69.97,Debit Card,9a80f8f9-6b60-48f5-ab76-7fe8b873dbb3
+2025-02-15,Robert Schwartz,Ohio,Furniture,Beds,390.71,5,68.52,PayPal,1aa14040-b3ba-4813-8f87-1e3dfc28e611
+2025-02-16,Tracy Carson,North Carolina,Books,Comics,388.1,5,44.21,PayPal,447788da-8fd9-4af4-b376-f64e9cbe3554
+2025-02-16,Joseph Chen,Texas,Clothing,Shoes,102.06,5,15.33,Debit Card,524ce42e-d5f5-4ccd-bc81-d844dd2d3891
+2025-02-16,Scott White,Illinois,Furniture,Chairs,220.3,5,30.68,Credit Card,eb0a0469-104d-4905-a159-d00792cf91cc
+2025-02-19,Erica Anderson,California,Furniture,Chairs,370.75,3,78.0,Debit Card,6a9c7aa8-21e8-4118-897e-c7fab13b3563
+2025-02-19,Lisa Olson,Texas,Furniture,Beds,64.32,1,17.47,Credit Card,51ac5533-aa1c-455c-a681-18357eafc3f9
+2025-02-20,Paula Baker,New York,Books,Non-Fiction,96.35,1,19.87,Debit Card,3fb9b7aa-3f1f-4758-ba91-cf900eab7de1
+2025-02-22,Amy Harvey,Georgia,Clothing,Shoes,138.82,8,32.71,Credit Card,759626fe-1295-4709-bd1f-5538442aab93
+2025-02-22,William Anderson,Ohio,Books,Fiction,471.57,7,91.7,Debit Card,a249513f-6f15-4bed-8adc-03726f4762c5
+2025-02-22,Evan Fowler,Ohio,Electronics,Phones,453.09,5,69.94,Debit Card,b283af99-ac25-48a7-9836-a41c24a1c55c
+2025-02-23,Sherry Smith,New York,Books,Fiction,409.09,4,58.52,PayPal,d4eb9a7c-fa2b-43fa-9f40-277869d878df
+2025-02-24,Jennifer Thomas,Georgia,Toys,Action Figures,266.19,6,30.05,Debit Card,d9a3317e-eaaf-4f27-8334-2886ed9501d3
+2025-02-24,Amy Wiley,Florida,Toys,Action Figures,156.19,3,38.84,Cash on Delivery,ff89502b-1481-43ea-bb56-198ed745cc31
+2025-02-27,Melanie Young,California,Electronics,Accessories,42.35,2,8.53,Debit Card,761f2fd1-c289-4d88-b1b9-df5dda657fcd
+2025-02-27,Jacob Rice,Georgia,Books,Fiction,471.63,4,125.64,Credit Card,606bef1c-a87a-44ed-9a01-a46673620b90
+2025-02-27,Andrea Bowman,North Carolina,Furniture,Tables,263.42,8,55.0,Debit Card,b0fb76e5-f2f0-4e3c-ba07-b91714b7e2b9
+2025-02-28,Sean Jones,North Carolina,Toys,Puzzles,32.69,2,7.31,Credit Card,eca81357-9e70-4715-b1fd-0064f83bbd1e
+2025-03-01,Jacqueline Carey,Florida,Furniture,Beds,149.07,10,41.83,PayPal,c9828cb0-2ef1-479f-a0bb-45ca08681917
+2025-03-01,Jacqueline Gonzalez,New York,Electronics,Phones,27.32,3,7.02,PayPal,cd0a2667-4045-4da2-847a-120645375779
+2025-03-02,Ruth Fisher,Georgia,Books,Comics,88.44,6,9.71,PayPal,38aa417c-e08e-4e49-a733-f832426e38c3
+2025-03-02,Melissa Santos,Florida,Books,Fiction,72.08,5,15.33,PayPal,de08542c-0cd3-4600-a73c-22d6c606e962
+2025-03-02,Sherry Valdez,New York,Books,Non-Fiction,294.04,3,71.06,Credit Card,e4b08722-7f7a-4c74-a2dd-82a2400eedd7
+2025-03-03,Dennis Warren,Texas,Electronics,Laptops,219.5,8,43.56,PayPal,ffffc373-e2f8-4d30-a9f2-3693fa0f7a0a
+2025-03-03,Christine Frazier,Georgia,Electronics,Accessories,259.86,5,74.62,Cash on Delivery,3f172f3d-9d66-41ea-9341-fd2cab16defc
+2025-03-04,Brandy Gonzalez,North Carolina,Books,Non-Fiction,268.98,8,51.45,Cash on Delivery,b45ff618-dee1-4da6-8f28-b89692e6cee7
+2025-03-04,Denise Jackson,North Carolina,Toys,Educational,368.55,8,46.0,Debit Card,3fe7bc1a-415a-4a5c-8c9f-8d5a3b0fe2ed
+2025-03-04,Alexis Montgomery,Texas,Toys,Action Figures,462.24,8,129.79,Cash on Delivery,df72a25e-9e1f-4bc4-95f4-806a6a78e736
+2025-03-05,Christopher Franklin,Florida,Toys,Action Figures,266.14,7,30.68,Credit Card,7508382d-3b8b-4c22-b4b8-fd9714b6bffb
+2025-03-06,Joseph Rodriguez,New York,Clothing,Shirts,91.31,8,25.11,Debit Card,18469f81-389b-4c4a-a71e-7c1be69c362f
+2025-03-07,Heather Branch,Ohio,Electronics,Phones,458.61,10,121.01,Debit Card,ba7b3915-9213-417a-919a-c1cd2269aaf6
+2025-03-07,William Mcintosh,Ohio,Toys,Action Figures,36.67,6,10.03,Credit Card,eaa3ef1f-0af1-4317-bcc0-bd2f265807ce
+2025-03-07,Jesus Hayes,New York,Electronics,Accessories,36.83,10,5.32,Cash on Delivery,c5b347de-b8b4-4003-b758-559157f269dd
+2025-03-09,Molly Peterson,North Carolina,Electronics,Phones,360.76,8,76.0,PayPal,b3e7e431-55b3-4f4e-acda-0fc13152dc6d
+2025-03-10,Ashley Blake,Illinois,Clothing,Shirts,486.84,8,139.19,Debit Card,abcc5d12-f42f-48db-97f2-587f77ecf84a
+2025-03-11,Jesse Gutierrez,North Carolina,Books,Fiction,415.61,4,49.9,Credit Card,c1440185-45f7-4563-8ef4-20730b195206
+2025-03-12,Ronald Williams,North Carolina,Electronics,Accessories,245.1,4,28.85,Debit Card,14ca687d-080c-4faf-bcc1-67a97cc77cd8
+2025-03-14,Dennis Campbell,Texas,Furniture,Chairs,81.06,7,15.17,Debit Card,d5071769-0cfe-4527-b0f5-4b39fd72ec88
+2025-03-14,Joseph Smith,California,Electronics,Phones,193.39,10,38.88,Credit Card,993abf6b-8c2d-404c-8286-bf9ef481a9aa
+2025-03-17,Kristin Watson,North Carolina,Books,Fiction,421.26,8,70.68,Debit Card,abd92dc4-ca25-4d24-aad8-183f07a58d88
+2025-03-17,Jessica Long,Georgia,Clothing,Shoes,173.36,8,40.44,Cash on Delivery,7cd3635c-4182-44f5-bd46-1b8610ef2e49
+2025-03-18,Wesley Gardner,California,Toys,Puzzles,436.87,5,54.65,PayPal,fda53c02-9788-4206-9c7e-287536b2c834
+2025-03-19,Vincent Weaver,Illinois,Electronics,Laptops,205.22,2,28.94,Cash on Delivery,b8b1e8db-1e66-4617-9247-b70e326b32b5
+2025-03-19,Francisco Swanson,Florida,Clothing,Shoes,258.51,3,55.66,Cash on Delivery,2e0951d1-fb53-4a48-87ce-e7077bedf482
+2025-03-20,Kyle King,New York,Clothing,Shoes,270.15,7,59.25,Credit Card,147ec44b-1911-4907-b6e1-999ba690952e
+2025-03-21,Kelly Pruitt,Florida,Clothing,Shirts,183.09,9,23.62,Debit Card,f159177e-ec6c-4239-a26a-5a05f89ba79b
+2025-03-21,Justin Obrien,Illinois,Furniture,Chairs,370.56,8,67.72,Credit Card,3bfcfe32-7832-454c-ad2c-5ffd8ac0724f
+2025-03-23,Patrick Perez,Florida,Clothing,Pants,346.05,7,73.65,Credit Card,61d0d332-7b3d-4890-a412-083a7b176cd4
+2025-03-24,Hannah Davis,Georgia,Books,Non-Fiction,130.72,3,31.17,Credit Card,c6fef9aa-628d-4290-bbb2-9e4e31c6d5fc
+2025-03-26,Carrie Watson,Georgia,Toys,Educational,434.21,5,118.74,Debit Card,4167886e-8590-4d2c-ad7b-c354d6676033
+2025-03-26,Rachel Brown,New York,Books,Comics,129.54,9,27.22,Cash on Delivery,6a0c8056-d736-4d13-bb11-05754f72b705
+2025-03-26,Sarah Glenn MD,Ohio,Books,Fiction,242.05,4,68.62,Credit Card,4cc9b14f-5b52-4712-ae98-e20e7b1ffc9d
+2025-03-26,Gerald Williams,Ohio,Toys,Educational,470.89,8,55.63,Cash on Delivery,d1fcb180-5170-4421-be9b-4d8b640f8c2b
+2025-03-27,Dr. Mary Pierce,California,Furniture,Beds,283.3,6,71.01,Credit Card,084bd7ff-143e-4ffe-bedd-51a74ff7d755
+2025-03-28,Natasha Marquez,Texas,Toys,Educational,162.31,4,40.71,PayPal,f390f47c-22cf-4b40-917b-3abae7d27b00
+2025-03-28,Julie Smith,New York,Electronics,Laptops,446.53,9,45.63,PayPal,3b1b5dec-0fbf-4e47-bfa5-023d59d536f1
+2025-03-28,Bryan Russell,Florida,Clothing,Pants,375.36,3,82.11,Debit Card,a8b2e9d7-e184-430a-a42a-ededa135898c
+2025-03-28,Christopher Robles,Florida,Books,Fiction,160.03,4,38.76,Credit Card,7d1f6fa7-56c4-4e0f-91d5-cfb27f94a648
+2025-03-28,Jennifer Nielsen,Ohio,Toys,Educational,492.22,2,135.45,Debit Card,80b77cd0-f474-466a-acb6-2532b28fcf56
+2025-03-29,April Williams,Florida,Books,Comics,33.51,7,9.2,Cash on Delivery,11616eb4-7652-4840-9517-16ff79710cc8
+2025-03-31,Natasha Brown,Ohio,Toys,Puzzles,28.5,2,8.34,Credit Card,fc768eec-454a-4d19-a098-f2075ea25ff6
+2025-03-31,Aaron Gordon,California,Furniture,Chairs,417.44,4,74.51,Cash on Delivery,64d26f3a-7e69-4642-9f20-08a5dc020d2b
+2025-04-01,Logan Smith,Ohio,Furniture,Tables,75.6,7,11.46,PayPal,1015900b-8e49-4d16-82b5-26603dd69db5
+2025-04-01,Melinda Matthews,Illinois,Books,Fiction,499.28,10,69.99,Credit Card,f13fb6c9-ca82-43e6-9604-16870c8d28a7
+2025-04-02,Karen Zavala,North Carolina,Electronics,Accessories,421.52,2,78.48,Debit Card,7d122647-3642-4399-80af-99ddcd326ea8
+2025-04-02,Richard Padilla,North Carolina,Books,Fiction,145.72,7,25.24,PayPal,a8952ab7-2f83-42f2-98bb-1b05908e8528
+2025-04-02,Ashley Calderon,Texas,Clothing,Shoes,38.63,2,6.0,Debit Card,dec52dcc-daf8-4b6b-a1dc-e18aeb60e5ae
+2025-04-04,Peter Cabrera,New York,Books,Fiction,396.4,5,95.23,PayPal,77ccbfe8-7135-4963-8f74-416124110e86
+2025-04-05,Eric Gay,New York,Furniture,Tables,383.31,7,104.67,Cash on Delivery,e29f5ff3-f30e-45d6-bb41-08e55f2146c3
+2025-04-05,Tammy Brown,North Carolina,Furniture,Tables,226.78,10,37.32,Debit Card,e20382c7-6b5c-4dd9-bee5-ba9072254622
+2025-04-05,Nicholas Adams,Georgia,Toys,Educational,420.81,2,53.82,Credit Card,8058bdc9-ac1f-4779-ae2b-416a5158fa70
+2025-04-09,April Blackburn,California,Clothing,Pants,389.19,9,66.07,PayPal,db027a78-5a14-4f82-82f2-0d76ecee44a0
+2025-04-10,Amber Lopez,Florida,Toys,Educational,182.14,7,36.42,Credit Card,731d12c7-0f8f-4b51-983a-1233dd1eb274
+2025-04-10,Luis Alexander,North Carolina,Clothing,Shirts,212.22,6,59.54,Debit Card,7ad48a12-f267-4a01-8199-1efdde7ea0e2
+2025-04-10,Edward Kelley,Illinois,Clothing,Shirts,289.61,6,58.35,Credit Card,ce1b512b-116b-47c4-a4b9-87cb694de8d8
+2025-04-11,Douglas Ochoa,North Carolina,Electronics,Phones,35.72,3,9.39,Debit Card,83da5fbc-af43-4624-b6b8-05a31ac8112f
+2025-04-13,Joshua Bradshaw,California,Toys,Educational,243.0,1,68.32,Cash on Delivery,05bcd73d-21a3-4e58-89db-14d492ed602f
+2025-04-14,Kayla Gardner,Florida,Books,Fiction,488.03,1,120.83,PayPal,8afbbe43-5af4-43fe-9aa9-fde04d614e90
+2025-04-16,Andrew Evans MD,Florida,Toys,Educational,83.56,5,23.61,PayPal,52592880-a1d2-41c5-bd6b-3e05f5c40870
+2025-04-16,Calvin Lee,Illinois,Clothing,Shoes,136.44,9,13.65,Debit Card,6d40e92c-258e-4050-8552-5f81c4a2e7da
+2025-04-18,James Jones,New York,Toys,Action Figures,417.38,8,112.17,Debit Card,101809c0-9120-43be-a93d-045cc5cc77f9
+2025-04-19,Meredith Hill,Illinois,Clothing,Shirts,229.34,4,42.92,PayPal,957d968a-a352-417c-96b1-6c57435cb87e
+2025-04-19,Philip Haas,California,Clothing,Pants,230.95,5,67.3,Cash on Delivery,8f8de39b-1052-457c-8d30-bdf612638b17
+2025-04-19,Stephanie Hansen,New York,Clothing,Shirts,322.16,2,88.73,Credit Card,6cf1c7aa-8ab5-492d-99e2-844b50827360
+2025-04-20,Sheila Parker,Georgia,Clothing,Shoes,48.4,3,14.24,Credit Card,e13094da-8776-4eb8-8819-c7dee05f03b7
+2025-04-20,Jesse Jones,New York,Furniture,Chairs,371.15,2,81.05,Cash on Delivery,415549b1-d525-4f83-9005-33c011e4b4ac
+2025-04-20,Sarah Brown,Georgia,Clothing,Pants,23.6,5,4.66,Credit Card,9dc426ce-5b25-4323-b478-9fac253eb0e1
+2025-04-20,Brian Gonzales,California,Toys,Action Figures,45.87,6,9.42,Debit Card,ca883093-e855-48e4-a38c-0d69d6604657
+2025-04-23,Katie Edwards,California,Books,Fiction,236.57,5,35.44,Debit Card,b9bf484a-da1a-4acc-9943-191eceff5c37
+2025-04-23,Herbert Garcia,Texas,Toys,Educational,26.69,9,6.36,Debit Card,12ae1d49-6c8e-44d2-9fa1-f9b84fed1d48
+2025-04-23,John Harrell,Georgia,Toys,Educational,205.05,6,37.94,Credit Card,281c1893-839d-42fc-825e-70dcdc9e4e1e
+2025-04-24,Julie Holder,California,Toys,Puzzles,476.94,2,95.31,Debit Card,c9bba944-3fc3-4fa2-bf3b-d55fb12c38fa
+2025-04-24,Kristina Cook,Ohio,Clothing,Shoes,304.66,8,71.55,Cash on Delivery,c99963a5-7e95-460f-9454-dba33eb7c32a
+2025-04-25,Andrew Reyes,California,Books,Comics,296.1,7,33.71,PayPal,75f53f73-1889-45ef-bf56-3deb0da6fac0
+2025-04-25,Alexander Johnson,California,Clothing,Shirts,469.05,8,80.58,Credit Card,41170348-d8f1-495f-bbd7-85d9f49956a9
+2025-04-25,Cynthia Chen,North Carolina,Furniture,Tables,217.87,1,34.96,Debit Card,413dea0b-e0d2-4321-b182-41a34636548e
+2025-04-26,John Lewis,Texas,Electronics,Phones,236.83,8,38.35,Credit Card,870871b8-cbc2-4917-9a41-4c42354bdf68
+2025-04-27,Barbara Baxter,New York,Toys,Puzzles,381.73,3,107.54,Credit Card,a8499556-d262-4d62-a9b4-a5544b01aee5
+2025-04-27,Todd Bowman,New York,Toys,Puzzles,247.49,9,47.45,PayPal,f44dfb05-6158-40dd-bb49-b40315b89a24
+2025-04-29,Darrell Walker,Florida,Books,Fiction,31.33,7,7.44,Debit Card,15de71c7-2db5-4316-871f-ac687ee72eec
+2025-04-30,Sheila Yang,Georgia,Furniture,Tables,219.11,7,51.06,PayPal,5b2e7d23-349f-4d01-afaa-1c68dd81c4c6
+2025-04-30,Maria Wilkerson,Illinois,Clothing,Pants,74.51,4,7.48,Debit Card,033ac716-4ca2-4777-9a9d-3f51b933fa14
+2025-05-01,Laura Green,Texas,Toys,Action Figures,336.84,4,41.23,PayPal,ad0aae41-3b39-4abc-aafe-db9a966ec7f7
+2025-05-01,Jason Flores,Texas,Electronics,Accessories,440.83,4,89.78,Debit Card,96941cdf-9906-44c1-b8b0-b41619526027
+2025-05-03,Danielle Romero,Ohio,Books,Fiction,27.45,5,7.9,PayPal,95942a6d-638d-4364-9152-535be136b703
+2025-05-05,Joseph Allen,Illinois,Electronics,Accessories,163.98,7,19.32,Debit Card,a75da551-af7e-4090-86a5-311690ed9717
+2025-05-05,Brian Powell,Florida,Toys,Action Figures,95.73,7,15.43,Credit Card,003a30ba-f378-4fda-a07b-033725bc1393
+2025-05-05,Gregory Anderson,Texas,Furniture,Chairs,441.71,10,116.78,Debit Card,57bd39eb-dac5-4fe0-8f9e-4ab44c1f74da
+2025-05-05,Charles Garrett,Florida,Electronics,Phones,304.45,2,73.78,Cash on Delivery,7fccc850-1001-49bb-ba73-1875be77369d
+2025-05-06,Sara Cook,Ohio,Electronics,Laptops,169.35,8,25.77,PayPal,8d499bb8-6bfe-4576-ace5-3230584dce77
+2025-05-07,Mr. John Gordon,Illinois,Toys,Action Figures,151.5,6,20.05,Debit Card,b288d138-ce76-49e3-bdfb-fd84e8aa2e91
+2025-05-07,Dylan Williams Jr.,Illinois,Toys,Puzzles,128.0,2,23.64,PayPal,5cebaee5-0f9b-4dda-ab54-44bb9503f951
+2025-05-10,James Thompson,North Carolina,Toys,Puzzles,382.28,2,114.3,Cash on Delivery,0d865859-954a-4dba-adec-479d17474a3e
+2025-05-11,John Richardson,New York,Clothing,Shirts,495.85,5,121.11,PayPal,eed8e465-865b-4dc4-90a5-e01b64913710
+2025-05-12,Adam Coleman,Illinois,Books,Comics,381.94,5,41.12,Cash on Delivery,1e1667dd-9477-4398-a513-287ba892715e
+2025-05-12,Annette Snyder,North Carolina,Toys,Educational,416.24,7,103.26,Credit Card,f8946e62-97e0-4857-b06b-76b789786edd
+2025-05-13,Daniel Miller,Texas,Toys,Puzzles,122.31,10,19.34,Credit Card,99ff38dc-7a9e-4bd8-a643-37af7bccf4c5
+2025-05-14,Melinda Branch,Ohio,Toys,Action Figures,261.07,10,31.59,PayPal,40ad4e9f-e008-4684-b416-5c1d89768825
+2025-05-15,Kim Gallagher,Ohio,Toys,Action Figures,26.5,8,7.3,Debit Card,f3e6c859-d51a-4847-be46-7cc65921ee3f
+2025-05-15,Mike Douglas,California,Clothing,Shirts,58.73,8,10.11,Debit Card,4a7f4278-0ab5-4dc8-9f6e-b334470ef847
+2025-05-17,Kyle Duran,California,Electronics,Accessories,47.09,6,4.85,Debit Card,6640f6d6-4b2f-4782-8674-7bf5d4a40e0f
+2025-05-18,Jamie Bates DVM,Illinois,Toys,Puzzles,423.31,8,91.23,Cash on Delivery,4b8fa30b-5b89-4553-b824-996d38ee9bd4
+2025-05-18,Elaine Cook,Georgia,Electronics,Phones,478.96,3,87.12,Credit Card,e6dbdc86-01cc-460d-a547-8fc6e47e969e
+2025-05-19,Cynthia Peters,North Carolina,Books,Fiction,213.34,8,63.14,Debit Card,6046a819-2a40-4e43-b7bd-e77ae6bd88c3
+2025-05-19,Ronald Wright,Illinois,Clothing,Shoes,77.08,4,14.84,Cash on Delivery,6a142dce-dd2b-4774-804a-20933b2f91bd
+2025-05-21,Gary Villarreal,North Carolina,Toys,Educational,360.86,3,53.79,Credit Card,88f852e8-174a-40b3-b0ea-9de1bcac3fe5
